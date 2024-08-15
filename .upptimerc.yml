@@ -11,6 +11,8 @@ sites:
     url: https://www.liallen.me
   - name: Teng blog
     url: https://www.teng.pub
+  - name: El Cap
+    url: https://elcap.xyz
 
 assignees: # Users to assign downtime issues (optional)
   - BinaryFiddler
