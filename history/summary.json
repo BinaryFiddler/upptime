@@ -4,18 +4,20 @@
     "url": "https://www.chenyu.blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.chenyu.blog.ico",
     "slug": "chenyu-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 200,
-    "timeWeek": 430,
-    "timeMonth": 417,
-    "timeYear": 417,
-    "dailyMinutesDown": {}
+    "time": 409,
+    "timeDay": 158,
+    "timeWeek": 395,
+    "timeMonth": 409,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2024-09-11": 0
+    }
   },
   {
     "name": "Weichen blog",
