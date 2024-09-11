@@ -4,19 +4,19 @@
     "url": "https://www.chenyu.blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.chenyu.blog.ico",
     "slug": "chenyu-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 158,
-    "timeWeek": 395,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 402,
+    "timeDay": 170,
+    "timeWeek": 375,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-09-11": 0
+      "2024-09-11": 33
     }
   },
   {
