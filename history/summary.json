@@ -24,18 +24,20 @@
     "url": "https://www.weichen.blog",
     "icon": "https://icons.duckduckgo.com/ip3/www.weichen.blog.ico",
     "slug": "weichen-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 305,
-    "timeWeek": 335,
-    "timeMonth": 330,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 347,
+    "timeDay": 1519,
+    "timeWeek": 575,
+    "timeMonth": 402,
+    "timeYear": 347,
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "Allen blog",
