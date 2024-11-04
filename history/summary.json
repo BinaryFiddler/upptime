@@ -42,19 +42,19 @@
     "url": "https://www.liallen.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.liallen.me.ico",
     "slug": "allen-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 452,
-    "timeDay": 135,
-    "timeWeek": 276,
-    "timeMonth": 343,
-    "timeYear": 452,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 451,
+    "timeDay": 226,
+    "timeWeek": 281,
+    "timeMonth": 342,
+    "timeYear": 451,
     "dailyMinutesDown": {
-      "2024-11-04": 0
+      "2024-11-04": 12
     }
   },
   {
